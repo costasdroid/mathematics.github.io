@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Είμαι ο Κώστας Λόλας, Λόλας σκέτο για τους περισσότερους αφού δεν ξέρουν καν το όνομά μου, και αν υπάρχει κάτι στο οποίο είμαι αφοσιομένος είναι η οικογένειά μου και τα Μαθηματικά. Έχω τέσσερα (ελεύθεροι να σκεφτείτε οτιδήποτε) καταπληκτικά παιδιά μία αξεπέραστη γυναίκα και μία τέλεια προς το παρόν δουλειά στο 10ο ΓΕΛ Θεσσαλονίκης ως πρήχτης των μαθητών, κοινώς Μαθηματικός.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Έχω κάποιες σπουδές όπως πτυχίο Μαθηματικών και μεταπτυχιακό στη Θεωρητική Πληροφορική & Θεωρία Συστημάτων και Ελέγχου (βασικά πιο cool είναι το τι έκανα παρά ο τίτλος) και αρκετή εμπειρία ως καθηγητής (11 χρόνια σε σχολεία και κάτι ψιλά ιδιαίτερα). Έχω μαζέψει αρκετά χαρτιά από σεμινάρια και επιμορφώσεις, έχω κάνει και εισηγήσεις σε συνέδρια κυρίως Μαθηματικά, αλλά η δίψα για γνώση τα προσπερνάει.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Αυτόν τον καιρό τα πράγματα που μου έχουν πάρει το μυαλό είναι η salsa, ο μετεωρολογικός σταθμός στο σχολείο μου και το καινούριο πλασματάκι που μας έκλεψε τις καρδιές μας.
 
+Έχω φτιάξει πολλά blog, αλλά ως φανατικός του απλού txt, μάλλον καταλήγω σε static generator όπως το jekyll και ίσως κάποτε τα μαζέψω όλα εδώ.
 
-[jekyll-organization]: https://github.com/jekyll
+Τα λέμε...
