@@ -15,7 +15,7 @@ categories: jekyll update tech
 
 # Υπολογιστής
 1. Σε τερματικό γράφουμε την εντολή
-    ```shell
+    ```bash
 git clone "username".github.io
     ```
 
@@ -26,10 +26,8 @@ git clone "username".github.io
 gem install jekyll bundler
 jekyll new blog
   ```
-  {% assign user.repo = '"username".github.io' %}
 
-
-4. Μετάφερε όλα τα αρχεία από τον φάκελο `blog` στο φάκελο {{user.repo}}.
+4. Μετάφερε όλα τα αρχεία από τον φάκελο `blog` στο φάκελο "username".github.io.
 
 5. Αλλάξτε στο αρχείο `_config.yml`
   - Βάλτε `#` μπροστά από τη γραμμή `gem "jekyll", "~> ?.?.?"`
