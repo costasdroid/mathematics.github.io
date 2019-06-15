@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Κοινά Λάθη σε Λύσεις Μαθηματικών"
-date:   2019-06-15 23:59:28 +0300
+date:   2019-06-14 23:59:28 +0300
 categories: maths common-mistakes
 image: /assets/2019-06-15-about-math-solutions.jpg
 description: Λάθη που κάνουν συχνά οι μαθητές λύνοντας ασκήσεις.
