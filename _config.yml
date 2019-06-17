@@ -24,6 +24,8 @@ twitter_username: costasmath
 github_username:  costasdroid
 facebook_username: CostasMath
 permalink: /:year/:month/:day/:title:output_ext
+disqus:
+    shortname: costasdroid-github-io
 
 # Build settings
 markdown: kramdown
