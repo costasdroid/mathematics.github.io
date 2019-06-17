@@ -2,7 +2,7 @@
 layout: post
 title:  "Πώς γράφω Μαθηματικά 1"
 date:   2018-05-02 23:59:28 +0300
-categories: update tech
+categories: tech
 description: Αν θέλεις να μάθεις να γράφεις μαθηματικά ή σε βασανίζει το πρόγραμμα που χρησιμοποιείς.
 ---
 

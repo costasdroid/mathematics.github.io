@@ -2,7 +2,7 @@
 layout: post
 title:  "Πώς δεν γράφω Μαθηματικά 1"
 date:   2018-05-07 23:59:28 +0300
-categories: update tech
+categories: tech
 image: /assets/2015-11-28-about-lucky-games1.png
 description: Υπάρχουν πολλά προγράμματα εκεί έξω για να γράψεις μαθηματικά. Κάποια που πρέπει να αποφύγεις.
 ---
