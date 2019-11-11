@@ -11,3 +11,4 @@ order: 1
 * Bridge
 * Latin & Salsa Lessons
 * Migadikos.gr
+* [Weight Loss]({% link weight.md %})
