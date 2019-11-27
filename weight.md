@@ -28,7 +28,7 @@ order: 11
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPI6XiXBNXlwALHBYNnpx1OxY3K0NoNzlJnGfVHvzayGtrYh89hTH2xNwrIlkV9pgQGhaYJv3RYOt2/pubchart?oid=1713654647&amp;format=interactive" frameborder="0"></iframe>
 </div>
 
- - [ x ] Πρώτος στόχος τα 115Kg
+ - [x] Πρώτος στόχος τα 115Kg
  - [ ] Δεύτερος στόχος τα 110Kg
  - [ ] Τρίτος στόχος τα 105Kg
  - [ ] Τέταρτος στόχος τα 100Kg
