@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Riddle001"
+date:   2020-02-03 15:40:00 +0300
 categories: riddles bridge-crossing resources d-medium
 description: Γέφυρα
 ---
