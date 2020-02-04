@@ -12,3 +12,4 @@ order: 1
 * Latin & Salsa Lessons
 * Migadikos.gr
 * [Weight Loss]({% link weight.md %})
+* [Riddles]({% link riddles.html %})
