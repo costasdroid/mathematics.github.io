@@ -47,7 +47,7 @@ jekyll new blog
 
 ```javascript
 <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
+  MathJax={
     extensions: ["tex2jax.js"],
     jax: ["input/TeX", "output/HTML-CSS"],
     tex2jax: {
@@ -56,9 +56,10 @@ jekyll new blog
       processEscapes: true
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
-  });
+  };
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ```
 ***
